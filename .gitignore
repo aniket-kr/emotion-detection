@@ -1,0 +1,6 @@
+# environment files
+venv/
+
+# IDE settings
+.vscode/
+
